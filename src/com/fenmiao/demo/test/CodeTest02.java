@@ -14,7 +14,6 @@ public class CodeTest02 {
 
         System.out.println(isBase64("chw"));
         System.out.println("99999"+"\n"+"((");
-        System.out.println("sdf");
     }
 
     private static boolean isBase64(String str) {
